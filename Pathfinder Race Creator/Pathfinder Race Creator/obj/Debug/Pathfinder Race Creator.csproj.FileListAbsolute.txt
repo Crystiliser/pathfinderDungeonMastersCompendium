@@ -1,0 +1,12 @@
+c:\users\assan bryant\documents\visual studio 2015\Projects\Pathfinder Race Creator\Pathfinder Race Creator\bin\Debug\Pathfinder Race Creator.exe.config
+C:\Users\Assan Bryant\documents\visual studio 2015\Projects\Pathfinder Race Creator\Pathfinder Race Creator\bin\Debug\Pathfinder Race Creator.exe
+C:\Users\Assan Bryant\documents\visual studio 2015\Projects\Pathfinder Race Creator\Pathfinder Race Creator\bin\Debug\Pathfinder Race Creator.pdb
+C:\Users\Assan Bryant\documents\visual studio 2015\Projects\Pathfinder Race Creator\Pathfinder Race Creator\obj\Debug\Pathfinder Race Creator.csprojResolveAssemblyReference.cache
+C:\Users\Assan Bryant\documents\visual studio 2015\Projects\Pathfinder Race Creator\Pathfinder Race Creator\obj\Debug\Pathfinder_Race_Creator.Form1.resources
+C:\Users\Assan Bryant\documents\visual studio 2015\Projects\Pathfinder Race Creator\Pathfinder Race Creator\obj\Debug\Pathfinder_Race_Creator.Form2.resources
+C:\Users\Assan Bryant\documents\visual studio 2015\Projects\Pathfinder Race Creator\Pathfinder Race Creator\obj\Debug\Pathfinder_Race_Creator.Properties.Resources.resources
+C:\Users\Assan Bryant\documents\visual studio 2015\Projects\Pathfinder Race Creator\Pathfinder Race Creator\obj\Debug\Pathfinder Race Creator.csproj.GenerateResource.Cache
+C:\Users\Assan Bryant\documents\visual studio 2015\Projects\Pathfinder Race Creator\Pathfinder Race Creator\obj\Debug\Pathfinder Race Creator.exe
+C:\Users\Assan Bryant\documents\visual studio 2015\Projects\Pathfinder Race Creator\Pathfinder Race Creator\obj\Debug\Pathfinder Race Creator.pdb
+C:\Users\Assan Bryant\documents\visual studio 2015\Projects\Pathfinder Race Creator\Pathfinder Race Creator\obj\Debug\Pathfinder_Race_Creator.Form3.resources
+C:\Users\Assan Bryant\documents\visual studio 2015\Projects\Pathfinder Race Creator\Pathfinder Race Creator\obj\Debug\Pathfinder_Race_Creator.finalCheckScreen.resources
